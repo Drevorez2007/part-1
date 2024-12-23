@@ -127,20 +127,20 @@ left: -9px;
 
 
 .icon-call-phone::before {
-  background-image: url(/images/icon-call-phone.svg);
+  background-image: url(images/icon-call-phone.svg);
   width: 18px;
   height: 18px;
 
 }
 
 .icon-massage::before {
-  background-image: url(/images/icon-massage-1.svg);
+  background-image: url(images/icon-massage-1.svg);
   width: 20px;
   height: 20px;
 }
 
 .icon-profile::before {
-  background-image: url(/images/icon_player.svg);
+  background-image: url(images/icon_player.svg);
   width: 20px;
   height: 18px;
   left:-10px;
@@ -248,7 +248,7 @@ top:5px;
 width: 7px;
 height: 10px;
 content: '';
-background-image:url(/images/icon_little_read_more.svg);
+background-image:url(images/icon_little_read_more.svg);
 }
 
 .container {
